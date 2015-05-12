@@ -1,0 +1,2 @@
+# vmsite
+an azure site
